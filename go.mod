@@ -1,4 +1,4 @@
-module go-goof
+module github.com/pstember/go-goof
 
 go 1.12
 
