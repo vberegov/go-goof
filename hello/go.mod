@@ -1,4 +1,4 @@
-module hello
+module github.com/pstember/go-goof/hello
 
 go 1.12
 
