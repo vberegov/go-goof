@@ -1,4 +1,4 @@
-package goof
+package main
 import (
 	"fmt"
 	"github.com/pstember/go-goof/hello"
