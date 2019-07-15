@@ -1,7 +1,7 @@
 package main
 import (
-    "firstgo_app/handlers"
-    
+    "go-goof/handlers"
+    "github.com/square/go-jose/cipher"
     "github.com/gin-gonic/gin"
 )
 func main() {
