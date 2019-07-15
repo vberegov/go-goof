@@ -2,9 +2,9 @@
 
 1. Open a terminal and clone the repository
 
-  ```console
-  git clone git@github.com:pstember/go-goof.git
-  ```
+    ```console
+    git clone git@github.com:pstember/go-goof.git
+    ```
 and open the `go-goof` directory.
 
 2. Build the project
