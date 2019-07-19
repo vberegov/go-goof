@@ -2,7 +2,7 @@ package main
 import (
 	"fmt"
 	"github.com/pstember/go-goof/hello"
-    "goof/handlers"
+    "go-goof/handlers"
     "github.com/gogs/gogs/pkg/tool"
     "github.com/gin-gonic/gin"
 )
