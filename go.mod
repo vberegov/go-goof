@@ -19,7 +19,7 @@ require (
 	github.com/mcuadros/go-version v0.0.0-20190308113854-92cdf37c5b75 // indirect
 	github.com/pstember/go-goof/hello v0.0.0-20190715094659-dd899fd4135f
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
-	golang.org/x/net v0.0.0-20190620200207-3b0461eec859 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	gopkg.in/bufio.v1 v1.0.0-20140618132640-567b2bfa514e // indirect
 	gopkg.in/clog.v1 v1.2.0 // indirect
 	gopkg.in/ini.v1 v1.44.0 // indirect
